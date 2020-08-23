@@ -64,9 +64,6 @@
 	- `y/how to build a nuclear reactor`
 	- `y/strange alien sightings in oregon`
 
-+ `n/` + `comic id` to search a "comic" on a certain "comic" website.
-	- `n/177013`
-
 + `g/` + `search query` to search a for a repo/user on github.
 	- `g/manilarome`
 	- `g/polyfloat`
