@@ -1,8 +1,10 @@
+### This is a fork of the original squareup
+
 ## squareup
 
 ### A sleek and modern startpage
 
-## [Live Demo](https://manilarome.github.io/squareup/)
+## [Live Demo](https://antaxiom.github.io/squareup/)
 
 <p align='center'>
 	<img alt='squareup' src='scrot.webp'/>
