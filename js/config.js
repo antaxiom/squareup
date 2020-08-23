@@ -45,6 +45,9 @@ class Config {
       "g/": {
         urlPrefix: "https://github.com/search?q=",
       },
+      "n/": {
+        urlPrefix: "https://nyaa.si/?q=",
+      },
     };
 
     return quickSearchData;
